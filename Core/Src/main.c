@@ -139,7 +139,7 @@ int main(void)
 //usb_printf("ok\n");
 //HAL_GPIO_TogglePin(GPIOB,GPIO_PIN_12);
 //HAL_Delay(500);		
-
+   //12313
 	//HAL_Delay(1);	
   }
   /* USER CODE END 3 */
